@@ -1,9 +1,9 @@
-
 # DIYRE01_UsingTheWS2811ForControllingLights
 
 Repository of the free source code and schematics accompanying this YouTube video:
 
-![YoutubeExcerpt](https://j.gifs.com/z6XPx7.gif)
+[![YoutubeExcerpt](https://img.youtube.com/vi/AYqMWdDcELc/0.jpg)](https://www.youtube.com/watch?v=AYqMWdDcELc)
+
 [DIY Railway Electronics # 01 - Using the WS2811 for controlling lights](https://www.youtube.com/watch?v=AYqMWdDcELc).
 
 
