@@ -3,7 +3,7 @@
 
 Repository of the free source code and schematics accompanying this YouTube video:
 
-[![YoutubeExcerpt](https://j.gifs.com/z6XPx7.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
+![YoutubeExcerpt](https://j.gifs.com/z6XPx7.gif)
 [DIY Railway Electronics # 01 - Using the WS2811 for controlling lights](https://www.youtube.com/watch?v=AYqMWdDcELc).
 
 
